@@ -1,0 +1,6 @@
+[package]
+name = "twitch-bot"
+version = "0.1.0"
+authors = ["Cristobal Hall-Ramnos <crishallramos@yahoo.com>"]
+
+[dependencies]
